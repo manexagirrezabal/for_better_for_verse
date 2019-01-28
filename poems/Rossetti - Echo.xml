@@ -95,7 +95,7 @@ PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:
         </l>
         <l n="12" part="N" met="-+-+-+-+-+" real="-+--+-+-+++|-+--+-+-+-+">
           <seg met="-+" part="N">That o<sb part="N"/></seg>
-          <seg met="-+" real="--+" part="N">pen<sb part="N"/>ing, <caesura/> let<sb
+          <seg met="-+" real="--+" part="N">pen<sb part="N"/>ing, <caesura/>let<sb
               part="N"/></seg>
           <seg met="-+" part="N">ting in, </seg>
           <caesura/>
@@ -125,7 +125,7 @@ PUBLIC "-//TEI P5//DTD Main Document Type//EN" "http://prosody.lib.virginia.edu:
           </l>
           <l n="16" part="N" met="-+-+-+" real="+-++-+">
           <seg met="-+" real="+-" part="N">Pulse for </seg>
-          <seg met="-+" real="++" part="N">pulse, <caesura/> breath </seg>
+          <seg met="-+" real="++" part="N">pulse, <caesura/>breath </seg>
           <seg met="-+" part="N">for <rhyme label="b">breath</rhyme>:</seg>
           <note anchored="true"> This line frames its other-worldly hunger so superbly as
             to exact for the time being, and from the reader, the reciprocation that the
